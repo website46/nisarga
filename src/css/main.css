@@ -550,7 +550,7 @@
 
 html {
   background: #F8F3E7;
-  background-image: url("img/fon0.png");
+  background-image: url("src/img/fon0.png");
   background-size: 100%;
   background-position: top left; }
 
@@ -558,7 +558,7 @@ body {
   font-family: 'Fira Sans';
   font-size: 16px;
   color: #65746E;
-  background-image: url("img/line-fon.svg"), url("img/fon1.png");
+  background-image: url("src/img/line-fon.svg"), url("src/img/fon1.png");
   background-size: cover, auto;
   background-attachment: fixed;
   overflow-x: hidden; }
@@ -576,7 +576,7 @@ blockquote {
 #top_block {
   text-align: center;
   text-transform: uppercase;
-  background-image: url("img/fonbl1.png");
+  background-image: url("src/img/fonbl1.png");
   background-size: 95%;
   background-position: center center;
   color: #4D5E58;
@@ -691,7 +691,7 @@ blockquote {
 
 /*Footer*/
 footer {
-  background: url("img/footer-fon.png");
+  background: url("src/img/footer-fon.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -867,4 +867,3 @@ footer blockquote {
     @media screen and (max-width: 764px) {
       #donate:hover {
         margin-right: -20px; } }
-
