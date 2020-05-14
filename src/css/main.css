@@ -558,7 +558,7 @@ body {
   font-family: 'Fira Sans';
   font-size: 16px;
   color: #65746E;
-  background-image: url("/img/line-fon.svg"), url("/img/fon1.png");
+  background-image: url("../img/line-fon.svg"), url("../img/fon1.png");
   background-size: cover, auto;
   background-attachment: fixed;
   overflow-x: hidden; }
