@@ -576,7 +576,7 @@ blockquote {
 #top_block {
   text-align: center;
   text-transform: uppercase;
-  background-image: url("img/fonbl1.png");
+  background-image: url("../img/fonbl1.png");
   background-size: 95%;
   background-position: center center;
   color: #4D5E58;
